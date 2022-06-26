@@ -1,6 +1,7 @@
 ## API Testing Report
 
 #### [Reqres][https://reqres.in]
+##Click here to see the report(https://reqresmahmud.netlify.app/)
 
 ## Method
 
