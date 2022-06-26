@@ -1,5 +1,5 @@
 ## API Testing Report
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9419525e-96ce-4f72-9750-333a95f06c06/deploy-status)](https://app.netlify.com/sites/reqresmahmud/deploys)
 #### [Reqres][https://reqres.in]
 ##Click here to see the report(https://reqresmahmud.netlify.app/)
 
